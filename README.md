@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-I’m currently learning Python and Django.
+I’m a Python and Django developer.
 
 My email: foxairman@gmail.com
